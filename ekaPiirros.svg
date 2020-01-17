@@ -1,0 +1,22 @@
+<svg width="436" height="539" viewBox="0 0 436 539" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M332 137C332 186.153 303.362 234 252 234C200.638 234 159 194.153 159 145C159 95.8467 200.638 56 252 56C303.362 56 332 87.8467 332 137Z" fill="#FFE0BD"/>
+<path d="M228 269L286 206H228L173 249V290H265L228 269Z" fill="#FFE0BD"/>
+<path d="M435 270C434.547 257.6 426.064 253.167 417 250L407.5 271L407 288L422.295 294.5C428.715 292.333 435.453 282.4 435 270Z" fill="#FFE0BD"/>
+<path d="M329 314.5C327 305.833 309.8 281.6 225 248L101 333.985L113 410C145 427.667 128.8 539.6 152 538C175.2 536.4 270.667 536.667 306 526L329 512L337 384L329 314.5Z" fill="url(#paint0_linear)"/>
+<path d="M236.471 339.554C236.471 339.554 229.771 323.154 244.971 309.554C255.137 309.554 271.471 316.554 304.471 324.554C322.936 329.031 332.971 342.554 370.471 324.554C407.971 306.554 400.471 270.054 409.971 282.554C417.571 292.554 426.471 289.054 429.971 286.054L396 351L360 370L290.471 363.554L236.471 339.554Z" fill="url(#paint1_linear)"/>
+<path d="M229 1.19858C318.844 6.54647 319.012 5.29626 317 119.199L253 222.199C265.409 254.504 267.885 344.715 221.2 391.075C162.845 449.025 69.2745 366.096 22.9925 339.12C-23.2895 312.143 1.86377 214.227 84.3664 108.317C166.869 2.4083 145 -3.80148 229 1.19858Z" fill="url(#paint2_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="200.5" y1="248" x2="322" y2="192" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F37063"/>
+<stop offset="1" stop-color="#EC0D89"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="295" y1="223" x2="595" y2="314" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F37063"/>
+<stop offset="1" stop-color="#EC0D89"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="16.9557" y1="199.239" x2="312.535" y2="128.371" gradientUnits="userSpaceOnUse">
+<stop stop-color="#764C9F"/>
+<stop offset="1" stop-color="#6979BB"/>
+</linearGradient>
+</defs>
+</svg>
